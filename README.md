@@ -11,6 +11,9 @@
 Do you like Microsoft?
 https://gusugusuwebapps.azurewebsites.net/
 
+## アンケート
+https://stdntpartners-my.sharepoint.com/personal/masashi_michigami_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=OYtrC8FJ3t70scDLXN731YkBbCInX2jt%2bdSJQrEvMbE%3d&docid=1_1e53fa84ce8f5472596db1d761d42f94a&wdFormId=%7BE0735FF5%2D5432%2D479C%2D8A61%2D200891544901%7D
+
 ## ハンズオンの内容
 0. [WebAppsについて](#0-azureとwebappsについて)  
 1. [WebAppsを作成しよう](#1-webappsを作成しよう)  
